@@ -1,4 +1,1 @@
-#Various (most common) data is in here
-#top 100 most common names (1818-2018)
-#top 10k most common words
-#top 10k most common passwords for various sites
+Various (most common) data is in here. From passwords to word frequency.
